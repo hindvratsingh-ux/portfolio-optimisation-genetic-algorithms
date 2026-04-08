@@ -3,9 +3,6 @@
 ## Overview
 This project explores the use of genetic algorithms (GAs) to optimize portfolio construction by balancing expected return and risk. The work was completed in R as part of an MSc assignment focused on financial optimization and evolutionary computation.
 
-## Project Type
-Individual academic project
-
 ## Objective
 The objective of this project was to develop a GA-based portfolio optimization framework that:
 - identifies optimal portfolio weights for a selected set of assets,
